@@ -5,7 +5,15 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,dashi.zone
 DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
-DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,shanghaitech.edu.cn
+DOMAIN-SUFFIX,jlu.edu.cn
+DOMAIN-SUFFIX,ustc.edu.cn
+DOMAIN-SUFFIX,xjtu.edu.cn
+DOMAIN-SUFFIX,jxust.edu.cn
+DOMAIN-SUFFIX,nju.edu.cn
+DOMAIN-SUFFIX,cqu.edu.cn
+DOMAIN-SUFFIX,neusoft.edu.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
