@@ -15,10 +15,13 @@ DOMAIN-SUFFIX,nju.edu.cn
 DOMAIN-SUFFIX,cqu.edu.cn
 DOMAIN-SUFFIX,neusoft.edu.cn
 
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,huawei
 DOMAIN-KEYWORD,harmony
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,yuque
 
 # IP段匹配
 IP-CIDR,10.0.0.0/24,no-resolve
