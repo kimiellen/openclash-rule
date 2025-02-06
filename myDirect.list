@@ -23,6 +23,7 @@ DOMAIN-KEYWORD,huawei
 DOMAIN-KEYWORD,harmony
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,yuque
+DOMAIN-KEYWORD,deepseek
 
 # IP段匹配
 IP-CIDR,10.0.0.0/24,no-resolve
